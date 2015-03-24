@@ -1,0 +1,1817 @@
+fileFormatVersion: 2
+guid: b7fc99151d87d154b949ee14b63a1a59
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AllKeyboardMouseMap_0
+    21300002: AllKeyboardMouseMap_1
+    21300004: AllKeyboardMouseMap_2
+    21300006: AllKeyboardMouseMap_3
+    21300008: AllKeyboardMouseMap_4
+    21300010: AllKeyboardMouseMap_5
+    21300012: AllKeyboardMouseMap_6
+    21300014: AllKeyboardMouseMap_7
+    21300016: AllKeyboardMouseMap_8
+    21300018: AllKeyboardMouseMap_9
+    21300020: AllKeyboardMouseMap_10
+    21300022: AllKeyboardMouseMap_11
+    21300024: AllKeyboardMouseMap_12
+    21300026: AllKeyboardMouseMap_13
+    21300028: AllKeyboardMouseMap_14
+    21300030: AllKeyboardMouseMap_15
+    21300032: AllKeyboardMouseMap_16
+    21300034: AllKeyboardMouseMap_17
+    21300036: AllKeyboardMouseMap_18
+    21300038: AllKeyboardMouseMap_19
+    21300040: AllKeyboardMouseMap_20
+    21300042: AllKeyboardMouseMap_21
+    21300044: AllKeyboardMouseMap_22
+    21300046: AllKeyboardMouseMap_23
+    21300048: AllKeyboardMouseMap_24
+    21300050: AllKeyboardMouseMap_25
+    21300052: AllKeyboardMouseMap_26
+    21300054: AllKeyboardMouseMap_27
+    21300056: AllKeyboardMouseMap_28
+    21300058: AllKeyboardMouseMap_29
+    21300060: AllKeyboardMouseMap_30
+    21300062: AllKeyboardMouseMap_31
+    21300064: AllKeyboardMouseMap_32
+    21300066: AllKeyboardMouseMap_33
+    21300068: AllKeyboardMouseMap_34
+    21300070: AllKeyboardMouseMap_35
+    21300072: AllKeyboardMouseMap_36
+    21300074: AllKeyboardMouseMap_37
+    21300076: AllKeyboardMouseMap_38
+    21300078: AllKeyboardMouseMap_39
+    21300080: AllKeyboardMouseMap_40
+    21300082: AllKeyboardMouseMap_41
+    21300084: AllKeyboardMouseMap_42
+    21300086: AllKeyboardMouseMap_43
+    21300088: AllKeyboardMouseMap_44
+    21300090: AllKeyboardMouseMap_45
+    21300092: AllKeyboardMouseMap_46
+    21300094: AllKeyboardMouseMap_47
+    21300096: AllKeyboardMouseMap_48
+    21300098: AllKeyboardMouseMap_49
+    21300100: AllKeyboardMouseMap_50
+    21300102: AllKeyboardMouseMap_51
+    21300104: AllKeyboardMouseMap_52
+    21300106: AllKeyboardMouseMap_53
+    21300108: AllKeyboardMouseMap_54
+    21300110: AllKeyboardMouseMap_55
+    21300112: AllKeyboardMouseMap_56
+    21300114: AllKeyboardMouseMap_57
+    21300116: AllKeyboardMouseMap_58
+    21300118: AllKeyboardMouseMap_59
+    21300120: AllKeyboardMouseMap_60
+    21300122: AllKeyboardMouseMap_61
+    21300124: AllKeyboardMouseMap_62
+    21300126: AllKeyboardMouseMap_63
+    21300128: AllKeyboardMouseMap_64
+    21300130: AllKeyboardMouseMap_65
+    21300132: AllKeyboardMouseMap_66
+    21300134: AllKeyboardMouseMap_67
+    21300136: AllKeyboardMouseMap_68
+    21300138: AllKeyboardMouseMap_69
+    21300140: AllKeyboardMouseMap_70
+    21300142: AllKeyboardMouseMap_71
+    21300144: AllKeyboardMouseMap_72
+    21300146: AllKeyboardMouseMap_73
+    21300148: AllKeyboardMouseMap_74
+    21300150: AllKeyboardMouseMap_75
+    21300152: AllKeyboardMouseMap_76
+    21300154: AllKeyboardMouseMap_77
+    21300156: AllKeyboardMouseMap_78
+    21300158: AllKeyboardMouseMap_79
+    21300160: AllKeyboardMouseMap_80
+    21300162: AllKeyboardMouseMap_81
+    21300164: AllKeyboardMouseMap_82
+    21300166: AllKeyboardMouseMap_83
+    21300168: AllKeyboardMouseMap_84
+    21300170: AllKeyboardMouseMap_85
+    21300172: AllKeyboardMouseMap_86
+    21300174: AllKeyboardMouseMap_87
+    21300176: AllKeyboardMouseMap_88
+    21300178: AllKeyboardMouseMap_89
+    21300180: AllKeyboardMouseMap_90
+    21300182: AllKeyboardMouseMap_91
+    21300184: AllKeyboardMouseMap_92
+    21300186: AllKeyboardMouseMap_93
+    21300188: AllKeyboardMouseMap_94
+    21300190: AllKeyboardMouseMap_95
+    21300192: AllKeyboardMouseMap_96
+    21300194: AllKeyboardMouseMap_97
+    21300196: AllKeyboardMouseMap_98
+    21300198: AllKeyboardMouseMap_99
+    21300200: AllKeyboardMouseMap_100
+    21300202: AllKeyboardMouseMap_101
+    21300204: AllKeyboardMouseMap_102
+    21300206: AllKeyboardMouseMap_103
+    21300208: AllKeyboardMouseMap_104
+    21300210: AllKeyboardMouseMap_105
+    21300212: AllKeyboardMouseMap_106
+    21300214: AllKeyboardMouseMap_107
+    21300216: AllKeyboardMouseMap_108
+    21300218: AllKeyboardMouseMap_109
+    21300220: AllKeyboardMouseMap_110
+    21300222: AllKeyboardMouseMap_111
+    21300224: AllKeyboardMouseMap_112
+    21300226: AllKeyboardMouseMap_113
+    21300228: AllKeyboardMouseMap_114
+    21300230: AllKeyboardMouseMap_115
+    21300232: AllKeyboardMouseMap_116
+    21300234: AllKeyboardMouseMap_117
+    21300236: AllKeyboardMouseMap_118
+    21300238: AllKeyboardMouseMap_119
+    21300240: AllKeyboardMouseMap_120
+    21300242: AllKeyboardMouseMap_121
+    21300244: AllKeyboardMouseMap_122
+    21300246: AllKeyboardMouseMap_123
+    21300248: AllKeyboardMouseMap_124
+    21300250: AllKeyboardMouseMap_125
+    21300252: AllKeyboardMouseMap_126
+    21300254: AllKeyboardMouseMap_127
+    21300256: AllKeyboardMouseMap_128
+    21300258: AllKeyboardMouseMap_129
+    21300260: AllKeyboardMouseMap_130
+    21300262: AllKeyboardMouseMap_131
+    21300264: AllKeyboardMouseMap_132
+    21300266: AllKeyboardMouseMap_133
+    21300268: AllKeyboardMouseMap_134
+    21300270: AllKeyboardMouseMap_135
+    21300272: AllKeyboardMouseMap_136
+    21300274: AllKeyboardMouseMap_137
+    21300276: AllKeyboardMouseMap_138
+    21300278: AllKeyboardMouseMap_139
+    21300280: AllKeyboardMouseMap_140
+    21300282: AllKeyboardMouseMap_141
+    21300284: AllKeyboardMouseMap_142
+    21300286: AllKeyboardMouseMap_143
+    21300288: AllKeyboardMouseMap_144
+    21300290: AllKeyboardMouseMap_145
+    21300292: AllKeyboardMouseMap_146
+    21300294: AllKeyboardMouseMap_147
+    21300296: AllKeyboardMouseMap_148
+    21300298: AllKeyboardMouseMap_149
+    21300300: AllKeyboardMouseMap_150
+    21300302: AllKeyboardMouseMap_151
+    21300304: AllKeyboardMouseMap_152
+    21300306: AllKeyboardMouseMap_153
+    21300308: AllKeyboardMouseMap_154
+    21300310: AllKeyboardMouseMap_155
+    21300312: AllKeyboardMouseMap_156
+    21300314: AllKeyboardMouseMap_157
+    21300316: AllKeyboardMouseMap_158
+    21300318: AllKeyboardMouseMap_159
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: AllKeyboardMouseMap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 952
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 952
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 952
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 952
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 952
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 952
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_7
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 952
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 952
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_9
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 952
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 952
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_11
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 932
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 930
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 926
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 878
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 878
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 878
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 878
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_18
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 878
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 878
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_20
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 878
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_21
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 878
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_22
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 878
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 878
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_24
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 838
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_27
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 804
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 804
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 804
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_30
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 804
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 804
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_32
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 804
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_33
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 804
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_34
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 804
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_35
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 804
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_36
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 744
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_38
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 739
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_39
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 730
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 730
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 730
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_42
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 730
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 730
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_44
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 730
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_45
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 730
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_46
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 730
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_47
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 730
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 675
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_49
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 675
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 656
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 656
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 656
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_53
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 656
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_54
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 656
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_55
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 656
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_56
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 656
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_57
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 656
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_58
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 656
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_59
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 650
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_61
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 611
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_62
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 582
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_63
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 582
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_64
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 582
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_65
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 582
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_66
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 582
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_67
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 582
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_68
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 582
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_69
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 582
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_70
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 582
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_71
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 556
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 501
+        width: 92
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_73
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 547
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_74
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 508
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_75
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 508
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_76
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 508
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_77
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 508
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_78
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 508
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_79
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 508
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_80
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 508
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_81
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 508
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_82
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 508
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_83
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 462
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 437
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_85
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 483
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_86
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 434
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_87
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 434
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_88
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 434
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_89
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 434
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_90
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 434
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_91
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 434
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_92
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 434
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_93
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 434
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_94
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 434
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_96
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 419
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_97
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 360
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_98
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 360
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_99
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 360
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_100
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 360
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 360
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_102
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 360
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_103
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 360
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_104
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 360
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_105
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 360
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_106
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 368
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_108
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 355
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_109
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 286
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_110
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 286
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_111
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 286
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_112
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 286
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_113
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 286
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_114
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 286
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_115
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 286
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_116
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 286
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_117
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 286
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_118
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 272
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_120
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 281
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_121
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 281
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_122
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 212
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_123
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 212
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_124
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 212
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_125
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 212
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_126
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 212
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_127
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 212
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_128
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 212
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_129
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 212
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_130
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 212
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 181
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_132
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 207
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_133
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 207
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_134
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 138
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_135
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 138
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_136
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 138
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_137
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 138
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_138
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 138
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_139
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 138
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_140
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 138
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_141
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 138
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_142
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 138
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_143
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 176
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_145
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 133
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_146
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 133
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_147
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 64
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_148
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 64
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_149
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 64
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_150
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 64
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_151
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 64
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_152
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_153
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 64
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_154
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 64
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_155
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 44
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_156
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 42
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_158
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 59
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AllKeyboardMouseMap_159
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 59
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

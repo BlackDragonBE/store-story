@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<GameSaveData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" storeName="Piss Store" money="450" popularity="0" daysBillsWerePaid="0" daysPlayed="8" day="9" season="Spring" year="1" timeHours="8" timeMinutes="0">
+  <storeColor R="0.875" G="0.587969" B="0.154411763" A="1" />
+  <Inventory />
+  <StoreObjects>
+    <StoreObject positionX="-1" positionY="0" positionZ="5" rotationX="270" rotationY="180.000046" rotationZ="0" type="Shelves" parentTile="FloorTile -1 5">
+      <item>
+        <Name>Mushrooms</Name>
+        <Amount>200</Amount>
+        <MaxAmount>200</MaxAmount>
+        <Price>0.65</Price>
+        <Description />
+        <Category>Vegetables</Category>
+        <SpriteName>mushroom</SpriteName>
+      </item>
+    </StoreObject>
+    <StoreObject positionX="0" positionY="0" positionZ="5" rotationX="270" rotationY="180.000046" rotationZ="0" type="Shelves" parentTile="FloorTile 0 5">
+      <item>
+        <Name>Bananas</Name>
+        <Amount>30</Amount>
+        <MaxAmount>30</MaxAmount>
+        <Price>3.25</Price>
+        <Description />
+        <Category>Fruit</Category>
+        <SpriteName>banana</SpriteName>
+      </item>
+    </StoreObject>
+    <StoreObject positionX="1" positionY="0" positionZ="5" rotationX="270" rotationY="180.000031" rotationZ="0" type="Shelves" parentTile="FloorTile 1 5">
+      <item>
+        <Name>Bananas</Name>
+        <Amount>30</Amount>
+        <MaxAmount>30</MaxAmount>
+        <Price>3.25</Price>
+        <Description />
+        <Category>Fruit</Category>
+        <SpriteName>banana</SpriteName>
+      </item>
+    </StoreObject>
+  </StoreObjects>
+  <EconomyData _x0031_="FrozenGoods" _x0032_="Vegetables" _x0033_="Fruit" LastChange="1" Weather="Comfortable" />
+  <Upgrades />
+</GameSaveData>
